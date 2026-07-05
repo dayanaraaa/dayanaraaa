@@ -36,13 +36,7 @@ Machine learning applications in computational biology
 <h2 align="center">Contact</h2>
 
 <p align="center">
-<a href="https://github.com/dayanaraaa">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/dayanaral">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://github.com/dayanaraaa">GitHub</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://linkedin.com/in/dayanaral">LinkedIn</a>
 </p>
