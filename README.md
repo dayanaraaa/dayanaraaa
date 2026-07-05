@@ -1,4 +1,4 @@
-## Hi, I'm Dayanara 
+## <sup> Hi, I'm Dayanara </sup>
 <p align="center">
 I'm a data science student in the Bioinformatics stream at Durham University, with a background in biological sciences and research experience in protein sequence analysis, machine learning, and structural bioinformatics.
 </p>
