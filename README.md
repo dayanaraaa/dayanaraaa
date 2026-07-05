@@ -1,3 +1,5 @@
+<p align="center">   <img src="dleyva_github_banner.png" width="100%" /> </p>
+
 <h1 align="center">About me </h1>
 
 <p align="center">
