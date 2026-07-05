@@ -5,7 +5,7 @@ Data Science student (Bioinformatics stream) at Durham University with a backgro
 </p>
 
 <p align="center">
-I focus on biological data analysis, with an interest in visualization and computational methods for uncovering meaningful biological patterns.
+I focus on computational analysis of biological data, with an interest in machine learning methods and data-driven approaches to understanding biological systems.
 </p>
 
 ---
@@ -23,10 +23,10 @@ Machine learning applications in computational biology
 <h2 align="center">Tools & Skills</h2>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18"/> Python •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="18"/> R •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="18"/> Bash/Linux •
-BLAST • HMMER • Jalview • AlphaFold • PockDrug • scikit-learn • pandas • NumPy
+<img src="https://cdn.simpleicons.org/python/000000" width="18"/> Python •
+<img src="https://cdn.simpleicons.org/r/000000" width="18"/> R •
+<img src="https://cdn.simpleicons.org/gnubash/000000" width="18"/> Bash/Linux •
+scikit-learn • pandas • NumPy • BLAST • HMMER • AlphaFold
 </p>
 
 ---
@@ -35,10 +35,10 @@ BLAST • HMMER • Jalview • AlphaFold • PockDrug • scikit-learn • pand
 
 <p align="center">
 <a href="https://github.com/dayanaraaa">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> GitHub
+<img src="https://cdn.simpleicons.org/github/000000" width="18"/> GitHub
 </a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://linkedin.com/in/dayanaral">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> LinkedIn
+<img src="https://cdn.simpleicons.org/linkedin/000000" width="18"/> LinkedIn
 </a>
 </p>
