@@ -23,7 +23,7 @@ Learning more about machine learning and computational biology
 <h2 align="center">Tools & Skills</h2>
 
 <p align="center">
-Python • R • Bash/Linux • BLAST • HMMER • Jalview • AlphaFold • PockDrug • scikit-learn • pandas • NumPy
+Python • R • Bash/Linux • BLAST • HMMER • Jalview • scikit-learn • pandas • NumPy
 </p>
 
 ---
