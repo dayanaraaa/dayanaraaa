@@ -5,7 +5,7 @@ Data Science student (Bioinformatics stream) at Durham University with a backgro
 </p>
 
 <p align="center">
-I focus on computational analysis of biological data, with an interest in machine learning methods and data-driven approaches to understanding biological systems.
+I focus on computational approaches to biological data, with an emphasis on machine learning and reproducible data analysis workflows.
 </p>
 
 ---
@@ -13,20 +13,22 @@ I focus on computational analysis of biological data, with an interest in machin
 <h2 align="center">Research Focus</h2>
 
 <p align="center">
-Predicting protein binding partner presence from sequence features<br>
-Bioinformatics pipelines for sequence alignment, phylogenetics, and drug target discovery<br>
+Protein sequence feature analysis for prediction tasks<br>
+Bioinformatics pipelines for sequence alignment and phylogenetics<br>
 Machine learning applications in computational biology
 </p>
 
 ---
 
-<h2 align="center">Tools & Skills</h2>
+<h2 align="center">Core Tools & Skills</h2>
 
 <p align="center">
 <img src="https://cdn.simpleicons.org/python/000000" width="18"/> Python •
 <img src="https://cdn.simpleicons.org/r/000000" width="18"/> R •
 <img src="https://cdn.simpleicons.org/gnubash/000000" width="18"/> Bash/Linux •
-scikit-learn • pandas • NumPy • BLAST • HMMER • AlphaFold
+<img src="https://cdn.simpleicons.org/scikitlearn/000000" width="18"/> scikit-learn •
+<img src="https://cdn.simpleicons.org/pandas/000000" width="18"/> pandas •
+<img src="https://cdn.simpleicons.org/numpy/000000" width="18"/> NumPy
 </p>
 
 ---
