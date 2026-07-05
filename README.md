@@ -41,6 +41,6 @@ Machine learning applications in computational biology
 </a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://linkedin.com/in/dayanaral">
-<img src="https://cdn.simpleicons.org/linkedin/000000" width="18"/> LinkedIn
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="18"/> LinkedIn
 </a>
 </p>
