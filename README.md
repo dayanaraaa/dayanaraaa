@@ -1,5 +1,7 @@
 ## Hi, I'm Dayanara 
+<p align="center">
 I'm a data science student in the Bioinformatics stream at Durham University, with a background in biological sciences and research experience in protein sequence analysis, machine learning, and structural bioinformatics.
+</p>
 
 I enjoy working with biological data, especially through visualization and computational methods that help uncover meaningful patterns.
 
