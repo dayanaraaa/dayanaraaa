@@ -1,7 +1,5 @@
 <p align="center"> 
-  ## <sup> 
-    Hi, I'm Dayanara 
-  </sup>
+  ## Hi, I'm Dayanara
 </p>
   
 <p align="center">
