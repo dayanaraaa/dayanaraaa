@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dayanara</h1>
+<h1 align="center">About me </h1>
 
 <p align="center">
 Data Science student (Bioinformatics stream) at Durham University with a background in biological sciences and research experience in protein sequence analysis, machine learning, and structural bioinformatics.
