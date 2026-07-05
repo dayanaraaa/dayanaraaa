@@ -25,7 +25,7 @@ Python • R • Bash/Linux • BLAST • HMMER • Jalview • AlphaFold • Po
 </p>
 
 <p align="center">
-## Find me here
-GitHub: https://github.com/dayanaraaa
+## Find me here  
+GitHub: https://github.com/dayanaraaa  
 LinkedIn: https://linkedin.com/in/dayanaral
 </p>
