@@ -2,11 +2,11 @@
 <h1 align="center">About me </h1>
 
 <p align="center">
-Data Science student (Bioinformatics stream) at Durham University with a background in biological sciences and research experience in protein sequence analysis, machine learning, and structural bioinformatics.
+Data Science student (Bioinformatics stream) at Durham University with a Bachelor of Science in biology and research experience in protein sequence analysis, machine learning, and structural bioinformatics.
 </p>
 
 <p align="center">
-I focus on computational approaches to biological data, with an emphasis on machine learning and reproducible data analysis workflows.
+I focus on computational approaches to biological data. Combining data analysis, machine learning, and biology while creating a reproducible data analysis workflow.
 </p>
 
 ---
@@ -14,7 +14,7 @@ I focus on computational approaches to biological data, with an emphasis on mach
 <h2 align="center">Research Focus</h2>
 
 <p align="center">
-Protein sequence feature analysis for prediction tasks<br>
+Protein sequence feature analysis for biological prediction models <br>
 Bioinformatics pipelines for sequence alignment and phylogenetics<br>
 Machine learning applications in computational biology
 </p>
