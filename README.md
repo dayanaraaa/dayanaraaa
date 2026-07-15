@@ -9,6 +9,10 @@ Data Science student (Bioinformatics stream) at Durham University with a Bachelo
 I focus on computational approaches to biological data. Combining data analysis, machine learning, and biology while creating a reproducible data analysis workflow.
 </p>
 
+<p align="center">
+While most of my work here focuses on bioinformatics & data science, I also minored in Social Media Marketing and E-commerce Analytics, so I plan to share projects from those areas in the future.
+</p>
+
 ---
 
 <h2 align="center">Research Focus</h2>
