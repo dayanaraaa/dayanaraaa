@@ -12,6 +12,14 @@ I focus on computational approaches to biological data. Combining data analysis,
 <p align="center">
 While most of my work here focuses on bioinformatics & data science, I also minored in Social Media Marketing and E-commerce Analytics, so I plan to share projects from those areas in the future.
 </p>
+---
+
+<h2 align="center">Current Fun Project</h2>
+
+<p align="center">
+Color trends Across Art History
+Using WikiArt or Met Museum open API to download paintings across centuries/movements and extract dominant color palettes computationally. Do impressionists actually use more light colors? Does modern art use more contrast? 
+</p>
 
 ---
 
