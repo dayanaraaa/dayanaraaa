@@ -14,11 +14,10 @@ While most of my work here focuses on bioinformatics & data science, I also mino
 </p>
 ---
 
-<h2 align="center">Current Fun Project</h2>
+<h2 align="center">Current Project</h2>
 
 <p align="center">
-Color trends Across Art History
-Using WikiArt or Met Museum open API to download paintings across centuries/movements and extract dominant color palettes computationally. Do impressionists actually use more light colors? Does modern art use more contrast? 
+Working on it...
 </p>
 
 ---
