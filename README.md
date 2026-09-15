@@ -16,7 +16,8 @@ Most of my work focuses on bioinformatics & data science, but I also minored in 
 <h2 align="center">Current Project</h2>
 
 <p align="center">
-Working on it...
+Dissertation project: I evaluated two classification approaches, Logistic Regression and Random Forest, to predict PCuAC presence from NirK features and vice versa. Results showed that NirK sequence composition predicts PCuAC presence substantially better than PCuAC composition predicts NirK presence (Random Forest ROC-AUC 0.938 vs 0.848; F1 0.728 vs 0.325). Stress-testing these outcomes through genus-grouped validation showed that the stronger Model A signal is partly lineage-dependent but remains well above baseline in unseen genera, suggesting that co-occurrence is reflected in a distributed combination of weak sequence features rather than any one specific diagnostic marker.
+
 </p>
 
 ---
