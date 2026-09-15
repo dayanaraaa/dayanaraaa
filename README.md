@@ -2,7 +2,7 @@
 <h1 align="center">About me </h1>
 
 <p align="center">
-Data Science student (Bioinformatics stream) at Durham University with a Bachelor of Science in biology and research experience in protein sequence analysis, machine learning, and structural bioinformatics.
+Data Science student from Durham University with a Bachelor of Science in biology and research experience in protein sequence analysis, machine learning, and structural bioinformatics.
 </p>
 
 <p align="center">
@@ -18,16 +18,6 @@ Most of my work focuses on bioinformatics & data science, but I also minored in 
 <p align="center">
 Dissertation project: I evaluated two classification approaches, Logistic Regression and Random Forest, to predict PCuAC presence from NirK features and vice versa. Results showed that NirK sequence composition predicts PCuAC presence substantially better than PCuAC composition predicts NirK presence (Random Forest ROC-AUC 0.938 vs 0.848; F1 0.728 vs 0.325). Stress-testing these outcomes through genus-grouped validation showed that the stronger Model A signal is partly lineage-dependent but remains well above baseline in unseen genera, suggesting that co-occurrence is reflected in a distributed combination of weak sequence features rather than any one specific diagnostic marker.
 
-</p>
-
----
-
-<h2 align="center">Research Focus</h2>
-
-<p align="center">
-Protein sequence feature analysis for biological prediction models <br>
-Bioinformatics pipelines for sequence alignment and phylogenetics<br>
-Machine learning applications in computational biology
 </p>
 
 ---
