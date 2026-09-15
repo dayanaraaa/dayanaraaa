@@ -1,15 +1,11 @@
 <p align="center">  
 <h1 align="center">About me </h1>
-
+  
 <p align="center">
 Data Science student from Durham University with a Bachelor of Science in biology and research experience in protein sequence analysis, machine learning, and structural bioinformatics.
-</p>
 
 <p align="center">
-I focus on computational approaches to biological data. Combining data analysis, machine learning, and biology while creating a reproducible data analysis workflow.
-</p>
-
-<p align="center">
+  I focus on computational approaches to biological data. Combining data analysis, machine learning, and biology while creating a reproducible data analysis workflow.
 Most of my work focuses on bioinformatics & data science, but I also minored in Social Media Marketing and E-commerce Analytics, so I plan to share projects from those areas in the future.
 </p>
 
